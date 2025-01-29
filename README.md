@@ -3,7 +3,7 @@
 - 🔭 I’m a computer science student
 
 <!-- Estatísticas do GitHub -->
-<div style="width: 200px; align-content: center;">
+<div style="align-content: center;">
   <!-- Estatísticas gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mihvieira&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" alt="Estatísticas do GitHub" />
   <!-- Linguagens mais usadas -->
