@@ -1,6 +1,7 @@
 ## Mirelly Almeida 👋
 
 - 🔭 I’m a computer science student
+- I prefer backend
 
 <!-- Estatísticas do GitHub -->
 <div style="align-content: center;">
